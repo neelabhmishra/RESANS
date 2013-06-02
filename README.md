@@ -1,2 +1,2 @@
-cloudberry
+RESANS - RESt ANalytics Services
 ==========
